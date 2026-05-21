@@ -65,8 +65,8 @@ src/
 ## Clone Repository
 
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone https://github.com/prateekx7/API-Service-Implementation.git
+cd API-Service-Implementation
 ```
 
 ## Install Dependencies
